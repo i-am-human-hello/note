@@ -4,7 +4,7 @@ If this notepad is not big, say so on Request
 # Instructions
 Extract the files in the download folder 
 Open the file called notepad 1.0.html
-If you use android
+If you use a Mobile Device
 Link(
 file:///storage/emulated/0/Download/notepad 1.0.html
 )
