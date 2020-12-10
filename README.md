@@ -6,6 +6,7 @@ Extract the files in the download folder
 Open the file called notepad 1.0.html
 If you use a Mobile Device
 Link(
-/storage/emulated/0/Download/notepad 1.0.html
+/storage/emulated/0/Download/notepad 1.0/
 )
-Customize with your directory
+click notepad 1.0.html
+
