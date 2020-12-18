@@ -3,10 +3,8 @@ This is a place to write I didn't add the save feature because I wanted to make 
 If this notepad is not big, say so on Request
 # Instructions
 Extract the files in the download folder 
-Open the file called notepad 1.0.html
-If you use a Mobile Device
-Link(
-/storage/emulated/0/Download/notepad 1.0/
-)
-click notepad 1.0.html
+Open the file called notepad 1.x.html
+# Attention
+It is recommended to use a browser
+
 
